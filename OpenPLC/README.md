@@ -8,6 +8,8 @@ program it in IEC 61131-3: Structured Text, Ladder, FBD and Instruction List.
 **Latest: [EQSP32-OpenPLC-Customer-Kit-1.0.0.zip](EQSP32-OpenPLC-Customer-Kit-1.0.0.zip)**
 (package 1.0.0, EQSP32 library v1.6.0 included)
 
+What is new in this version: [release notes](RELEASE_NOTES.md)
+
 ## Requirements
 
 - OpenPLC Editor 4.3.0 or newer (tested with 4.3.2), on Windows
@@ -33,8 +35,9 @@ program it in IEC 61131-3: Structured Text, Ladder, FBD and Instruction List.
 
 ## Projects made with 0.7.x
 
-Before you open a project made with package 0.7.x in 1.0.0, read the release
-notes: Modbus must be set up again, and PT100 values are now °C × 10.
+Before you open a project made with package 0.7.x in 1.0.0, read the
+[release notes](RELEASE_NOTES.md): Modbus must be set up again, and PT100
+values are now °C × 10.
 
 ## Previous versions
 
